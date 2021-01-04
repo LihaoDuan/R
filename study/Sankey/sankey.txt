@@ -1,0 +1,28 @@
+source	target	value
+Bacteria (54.72%)	Proteobacteria (51.18%)	0.5118
+Bacteria (54.72%)	Bacteroidetes (0.56%)	0.0056
+Bacteria (54.72%)	Actinobacteria (2.98%)	0.0298
+Archaea (5.84%)	Thaumarchaeota (5.84)	0.0584
+Proteobacteria (51.18%)	alpha-proteobacteria (32.88%)	0.3288
+Proteobacteria (51.18%)	gamma-proteobacteria (14.69%)	0.1469
+Proteobacteria (51.18%)	beta-proteobacteria (3.61%)	0.0361
+Bacteroidetes (0.56%)	Flavobacteriia (0.56%)	0.0056
+Actinobacteria (2.98%)	Acidimicrobiia (2.02%)	0.0202
+alpha-proteobacteria (32.88%)	SAR11_clade (12.96%)	0.1296
+alpha-proteobacteria (32.88%)	Sphingomonadales(0.67%)	0.0067
+alpha-proteobacteria (32.88%)	Rickettsiales (4.22%)	0.0422
+alpha-proteobacteria (32.88%)	Rhodobacterales (9.67%)	0.0967
+alpha-proteobacteria (32.88%)	Rhodospirillales (4.70%)	0.047
+alpha-proteobacteria (32.88%)	OCS116_clade (0.50%)	0.005
+gamma-proteobacteria (14.69%)	Thiotrichales	0.0092
+gamma-proteobacteria (14.69%)	Pseudomonadales (1.08%)	0.0108
+gamma-proteobacteria (14.69%)	Oceanospirillales (6.46%)	0.0646
+gamma-proteobacteria (14.69%)	Thiotrichales (0.92%)	0.0062
+gamma-proteobacteria (14.69%)	Alteromonadales (4.11%)	0.0411
+beta-proteobacteria (3.61%)	Methylophilales (3.41%)	0.0341
+beta-proteobacteria (3.61%)	Hydrogenophilales (0.20%)	0.002
+Flavobacteriia (0.56%)	Flavobacteriales (0.56%)	0.0056
+Acidimicrobiia (2.02%)	Acidimicrobiales (2.02%)	0.0202
+Thaumarchaeota (5.84)	unidentified_Thaumarchaeota (5.84%)	0.0584
+gamma-proteobacteria (14.69%)	Vibrionales (1.05%)	0.0105
+gamma-proteobacteria (14.69%)	Cellvibrionales (0.62%)	0.0062
